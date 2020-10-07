@@ -22,9 +22,12 @@
 
 ### Instalação!
 
- - instalar xampp
+ - instalar xampp.
  - fazer upload do banco de dados 'gestao.sql' no phpmyadmin.
  - adicionar a pasta do projeto dentro de htdocs.
  - rodar em http://localhost/
  - Obs: Necessário conexão com internet (para funcionar o chartsjs, e jquery).
+ 
+ login para testes: teste@teste.com
+ senha para testes: teste
 
